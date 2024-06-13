@@ -4,9 +4,9 @@ import { Team } from "./src/pattern/composition"
 const TeamUsers = [
     {
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5two6GvgUnTKCvY5MFEQyCBIvBtKLY7l59Q&s",
-        name: "Lucas Correa",
-        role: "Professor",
-        description: "Rei do Tigrinho",
+        name: "Emanoel Carmo",
+        role: "Programador",
+        description: "THE KING",
         mediaSocial: {
             linkedin: "https://br.linkedin.com/in/lucascorreaa/",
             x: "https://x.com/",
@@ -15,9 +15,9 @@ const TeamUsers = [
     },
     {
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5two6GvgUnTKCvY5MFEQyCBIvBtKLY7l59Q&s",
-        name: "Lucas Correa",
-        role: "Professor",
-        description: "Rei do Tigrinho",
+        name: "Emanoel Carmo",
+        role: "Programador",
+        description: "THE KING",
         mediaSocial: {
             linkedin: "https://br.linkedin.com/in/lucascorreaa/",
             x: "https://x.com/",
@@ -26,9 +26,9 @@ const TeamUsers = [
     },
     {
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5two6GvgUnTKCvY5MFEQyCBIvBtKLY7l59Q&s",
-        name: "Lucas Correa",
-        role: "Professor",
-        description: "Rei do Tigrinho",
+        name: "Emanoel Carmo",
+        role: "Programador",
+        description: "THE KING",
         mediaSocial: {
             linkedin: "https://br.linkedin.com/in/lucascorreaa/",
             x: "https://x.com/",
@@ -37,9 +37,9 @@ const TeamUsers = [
     },
     {
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5two6GvgUnTKCvY5MFEQyCBIvBtKLY7l59Q&s",
-        name: "Lucas Correa",
-        role: "Professor",
-        description: "Rei do Tigrinho",
+        name: "Emanoel Carmo",
+        role: "Programador",
+        description: "THE KING",
         mediaSocial: {
             linkedin: "https://br.linkedin.com/in/lucascorreaa/",
             x: "https://x.com/",
@@ -48,9 +48,9 @@ const TeamUsers = [
     },
     {
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5two6GvgUnTKCvY5MFEQyCBIvBtKLY7l59Q&s",
-        name: "Lucas Correa",
-        role: "Professor",
-        description: "Rei do Tigrinho",
+        name: "Emanoel Carmo",
+        role: "Programador",
+        description: "THE KING",
         mediaSocial: {
             linkedin: "https://br.linkedin.com/in/lucascorreaa/",
             x: "https://x.com/",
@@ -59,9 +59,9 @@ const TeamUsers = [
     },
     {
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5two6GvgUnTKCvY5MFEQyCBIvBtKLY7l59Q&s",
-        name: "Lucas Correa",
-        role: "Professor",
-        description: "Rei do Tigrinho",
+        name: "Emanoel Carmo",
+        role: "Programador",
+        description: "THE KING",
         mediaSocial: {
             linkedin: "https://br.linkedin.com/in/lucascorreaa/",
             x: "https://x.com/",
@@ -70,9 +70,9 @@ const TeamUsers = [
     },
     {
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5two6GvgUnTKCvY5MFEQyCBIvBtKLY7l59Q&s",
-        name: "Lucas Correa",
-        role: "Professor",
-        description: "Rei do Tigrinho",
+        name: "Emanoel Carmo",
+        role: "Programador",
+        description: "THE KING",
         mediaSocial: {
             linkedin: "https://br.linkedin.com/in/lucascorreaa/",
             x: "https://x.com/",
